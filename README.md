@@ -1,4 +1,6 @@
-<img height ="200" src ="https://github.com/sainiparshant/sainiparshant/assets/113703480/dc525579-88a8-4ef5-a73b-c470161a8206">
+<img height ="300"  src ="https://github.com/sainiparshant/sainiparshant/assets/113703480/0ce631ee-e665-4e1e-b447-9c8db1d800f7">
+
+
 
 <h1 align="center">Hi 👋, I'm PARSHANT SAINI</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
