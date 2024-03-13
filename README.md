@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm PARSHANT SAINI</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-![github image](https://github.com/sainiparshant/sainiparshant/assets/113703480/58e00efb-4d40-41fb-8ca6-3e78fc95c42f)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainiparshant&label=Profile%20views&color=0e75b6&style=flat" alt="sainiparshant" /> </p>
 
