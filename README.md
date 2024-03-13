@@ -1,6 +1,8 @@
+<img src ="https://github.com/sainiparshant/sainiparshant/assets/113703480/dc525579-88a8-4ef5-a73b-c470161a8206">
 
 <h1 align="center">Hi 👋, I'm PARSHANT SAINI</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<img  align="right" alt="Coding" width="400"  src= "https://github.com/sainiparshant/sainiparshant/assets/113703480/75bd7fb3-cd3c-4daf-a608-f87eb0cb7b56">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainiparshant&label=Profile%20views&color=0e75b6&style=flat" alt="sainiparshant" /> </p>
