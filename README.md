@@ -9,11 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainiparshant&label=Profile%20views&color=0e75b6&style=flat" alt="sainiparshant" /> </p>
 
-- 🔭 I’m currently working on **QueryQuarry**
+- 🔭 I’m currently working on **Full stack development**
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **MERN,PYTHON**
+- 💬 Ask me about **MERN,C++**
 
 - 📫 How to reach me **sainiparshant1901@gmail.com**
 
