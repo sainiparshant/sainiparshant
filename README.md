@@ -1,4 +1,4 @@
-<img height ="300"  src ="https://github.com/sainiparshant/sainiparshant/assets/113703480/0ce631ee-e665-4e1e-b447-9c8db1d800f7">
+<!-- <img height ="300"  src ="https://github.com/sainiparshant/sainiparshant/assets/113703480/0ce631ee-e665-4e1e-b447-9c8db1d800f7"> -->
 
 
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Full stack development**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **MERN,C++**
 
